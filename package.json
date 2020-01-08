@@ -1,0 +1,26 @@
+{
+  "name": "babylonjspackage",
+  "version": "4.0.3",
+  "description": "",
+  "main": "babylon.js",
+  "repository": {
+    "url": "https://github.com/renozzz/babylonjs.git"
+  },
+  "author": "renozzz",
+  "license": "ISC",
+  "files": [
+    "babylon.module.d.ts",
+    "babylon.js",
+    "babylon.max.js",
+    "babylon.max.js.map",
+    "Oimo.js"
+  ],
+  "typings": "babylon.module.d.ts",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": [],
+  "devDependencies": [],
+  "module": "babylon.js",
+  "esnext": "babylon.js"
+}
